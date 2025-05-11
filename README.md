@@ -19,4 +19,4 @@ To build discipline, consistency, and real coding experience by writing and comm
 
 Note:- make sure python installed in your system 
 
-This cide is for learning purpose so feel free to use , improve and edit
+This code is for learning purpose so feel free to use , improve and edit
